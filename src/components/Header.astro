@@ -29,8 +29,7 @@ import HeaderLink from './HeaderLink.astro';
 	header {
 		margin: 0;
 		padding: 0 1em;
-		background: #e9967a;
-		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		background: rgba(var(--gray));
 		text-color: #3c2f2f;
 	}
 	h2 {
@@ -50,12 +49,14 @@ import HeaderLink from './HeaderLink.astro';
 	nav a {
 		padding: 1em 0.5em;
 		color: var(--black);
-		border-bottom: 4px solid transparent;
 		text-decoration: none;
+	}
+/* 👇 A MÁGICA DO MOUSE AQUI 👇 */
+	nav a:hover {
+		color: hotpink; /* Você pode trocar por um código como #ff69b4 se quiser um tom específico */
 	}
 	nav a.active {
 		text-decoration: none;
-		border-bottom-color: var(--accent);
 	}
 	.social-links,
 	.social-links a {

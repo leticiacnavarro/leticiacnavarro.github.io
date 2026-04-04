@@ -5,7 +5,7 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 import { Image } from 'astro:assets';
-import placeholderImage from '../assets/jack.png'; 
+import placeholderImage from '../assets/coelho.jpg'; 
 ---
 
 
@@ -44,7 +44,7 @@ import placeholderImage from '../assets/jack.png';
 	.layout-duas-colunas {
 		display: grid;
 		/* 👇 A MÁGICA ACONTECE AQUI 👇 */
-		grid-template-columns: 2fr 4fr; /* Imagem fica com 2/6 e texto com 4/6 */
+		grid-template-columns: 3fr 4fr; /* Imagem fica com 2/6 e texto com 4/6 */
 		gap: 3rem; /* Espaço de respiro entre a imagem e o texto */
 		align-items: center; /* Alinha os dois lados verticalmente no centro */
 	}

@@ -4,10 +4,10 @@ pubDate: 2026-04-02
 description: "Resenha sobre um livro adolescente de romance"
 author: "Letícia"
 tags: ["resenha", "livro"]
-heroImage: 'https://static.wixstatic.com/media/3f209b_795e585d6d4d4e69877b7f75e3a37aef~mv2.png/v1/fill/w_980,h_1470,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/3f209b_795e585d6d4d4e69877b7f75e3a37aef~mv2.png'
+heroImage: "../../assets/coracao.jpg"
+
 ---
 
-![Capa do livro](https://static.wixstatic.com/media/3f209b_795e585d6d4d4e69877b7f75e3a37aef~mv2.png/v1/fill/w_980,h_1470,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/3f209b_795e585d6d4d4e69877b7f75e3a37aef~mv2.png)
 
 O livro conta a história de uma menina que vai atrás de um ser mágico para destruir o casamento da irmã postiça, cujo noivo é o amor da vida dela.
 
