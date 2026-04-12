@@ -4,13 +4,13 @@ pubDate: 2026-04-07
 description: "Resenha sobre um filme de pow pow"
 author: "Letícia"
 tags: ["resenha", "filme"]
-heroImage: "../../assets/PATERSON.jpg"
+heroImage: "../../assets/theraid.png"
 ---
-**Título:** The Raid: Operação Invasão (Serbuan maut)
-**Ano de Lançamento:** 2011
-**País:** Indonésia
-**Diretor:** Gareth Evans
-**Atores Principais:** Iko Uwais, Joe Taslim, Donny Alamsyah, Yayan Ruhian, Ray Sahetapy
+**Título:** The Raid: Operação Invasão (Serbuan maut)  
+**Ano de Lançamento:** 2011  
+**País:** Indonésia  
+**Diretor:** Gareth Evans  
+**Atores Principais:** Iko Uwais, Joe Taslim, Donny Alamsyah, Yayan Ruhian, Ray Sahetapy  
 
 The Raid conta a história da invasão de uma van da polícia num prédio invadido pelo crime organizado. 
 
